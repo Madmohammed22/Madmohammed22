@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mad</h1>
-<h3 align="center">"I am a passionate full-stack developer from Morocco</h3>
-<img style="display: block; margin: 0 auto;" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madmohammed22" alt="madmohammed22" /></a> </p>
 
 - 🔭 I’m currently working on [Libft](https://github.com/Madmohammed22/Libft)
 
