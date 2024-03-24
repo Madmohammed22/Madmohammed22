@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mad</h1>
 
-
-- 🔭 I’m currently working on [Libft](https://github.com/Madmohammed22/Libft)
-
 - 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Madmohammed22?tab=repositories](https://github.com/Madmohammed22?tab=repositories)
