@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mad</h1>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C/c++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Madmohammed22?tab=repositories](https://github.com/Madmohammed22?tab=repositories)
 
