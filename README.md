@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mad</h1>
 
-- 🌱 I’m currently learning **C/c++/java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Madmohammed22?tab=repositories](https://github.com/Madmohammed22?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@mohamed.mad1-etu](https://medium.com/@mohamed.mad1-etu)
 
 - 💬 Ask me about **If you're ready for collaboration, that's fantastic**
 
-- 📫 How to reach me **mohamed.mad1-etu@etu.univh2c.ma**
+- 📫 How to reach me **mohammed.mad.dev@gmail.com**
 
 - ⚡ Fun fact **Curiosity fuels tech innovation. Keep learning and exploring!**
 
